@@ -20,9 +20,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./examples/1.png
-[image2]: ./examples/2.jpg
-[image3]: ./examples/3.jpg
-[image4]: ./examples/4.jpg
+[image2]: ./examples/2.png
+[image3]: ./examples/3.png
+[image4]: ./examples/4.png
 
 ### Histogram of Oriented Gradients (HOG)
 
